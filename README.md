@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there 👋, I'm Ahmed Mohamed Saleh  
 
-<!--
-**AhmedSaleh74/AhmedSaleh74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 Android & Flutter Developer @ Code Alpha | Passionate about crafting seamless mobile experiences  
 
-Here are some ideas to get you started:
+💡 Expertise:
+- Android Development: Kotlin | Jetpack Compose | MVVM | Clean Architecture  
+- Flutter Development: Dart | Bloc | Firebase | Provider | Getx
+- Other Skills: REST APIs | State Management | UI/UX Best Practices | Git | Responsive UI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 I build scalable, high-performance mobile applications that run smoothly on Android & iOS.  
+📌 Currently exploring advanced Jetpack Compose & Flutter animations to enhance UI interactivity.  
+🎯 Always open to collaborations, innovative projects, and solving challenging problems!  
+
+📫 Reach me at: AhmedSaleh1112001@gmail.com
+🔗 Portfolio : https://ahmed-saleh-mobile-dev-isidys3.gamma.site/ 
+🔗 Linkedin : https://www.linkedin.com/in/ahmed-saleh-054651219/
