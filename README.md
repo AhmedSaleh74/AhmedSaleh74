@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Ahmed Mohamed Saleh  
 
-👨‍💻 Android & Flutter Developer @ Code Alpha | Passionate about crafting seamless mobile experiences  
+👨‍💻 Android & Flutter Developer @ Intern Intelligence | Passionate about crafting seamless mobile experiences  
 
 💡 Expertise:
 - Android Development: Kotlin | Jetpack Compose | MVVM | Clean Architecture  
