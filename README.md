@@ -20,7 +20,6 @@
   <img src="https://img.shields.io/badge/Jetpack_Compose-%2320232a.svg?style=for-the-badge&logo=android&logoColor=white">
   <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white">
   <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white">
-  <br>
   <img src="https://img.shields.io/badge/Android%20SDK-%23000000.svg?style=for-the-badge&logo=android&logoColor=green">
   <img src="https://img.shields.io/badge/Android%20Studio-%233DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white">
   <img src="https://img.shields.io/badge/iOS-000000.svg?style=for-the-badge&logo=apple&logoColor=white">
