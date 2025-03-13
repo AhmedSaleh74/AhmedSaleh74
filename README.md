@@ -35,12 +35,8 @@
 ✅ Collaborate & contribute to **open-source projects**  
 
 ---
-
 ### 📊 **GitHub Stats**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AhmedSaleh1112001&show_icons=true&theme=radical&count_private=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedSaleh74&theme=radical" width="48%"/>
-</p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AhmedSaleh74&show_icons=true&theme=radical&count_private=true" width="48%"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedSaleh74&theme=radical" width="48%"/> </p>
 
 ---
 
