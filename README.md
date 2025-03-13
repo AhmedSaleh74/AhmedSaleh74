@@ -15,13 +15,17 @@
 
 ### ⚡ **Tech Stack**
 #### 📱 **Mobile Development**
-![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-%2320232a.svg?style=for-the-badge&logo=android&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)  
-![Android SDK](https://img.shields.io/badge/Android%20SDK-%23000000.svg?style=for-the-badge&logo=android&logoColor=green)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-%233DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
-![iOS Development](https://img.shields.io/badge/iOS-000000.svg?style=for-the-badge&logo=apple&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white">
+  <img src="https://img.shields.io/badge/Jetpack_Compose-%2320232a.svg?style=for-the-badge&logo=android&logoColor=white">
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white">
+  <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white">
+  <br>
+  <img src="https://img.shields.io/badge/Android%20SDK-%23000000.svg?style=for-the-badge&logo=android&logoColor=green">
+  <img src="https://img.shields.io/badge/Android%20Studio-%233DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white">
+  <img src="https://img.shields.io/badge/iOS-000000.svg?style=for-the-badge&logo=apple&logoColor=white">
+</p>
+
 
 #### 💻 **Programming Languages**
 ![Basic C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
