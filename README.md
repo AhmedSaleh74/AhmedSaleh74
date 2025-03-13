@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Ahmed Mohamed Saleh</h1>  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&width=450&lines=Android+%26+Flutter+Developer;Passionate+about+Crafting+Seamless+Apps;Always+Learning+and+Building!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&width=450&lines=Android+%26+Flutter+Developer;">
 </p>
 
 ---
