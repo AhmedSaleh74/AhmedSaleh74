@@ -27,18 +27,21 @@
 
 
 #### 💻 **Programming Languages**
+<p align="center">
 ![Basic C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Basic Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-
+</p>
 #### 🌐 **Backend & APIs**
+<p align="center">
 ![REST API](https://img.shields.io/badge/REST_API-%23000000.svg?style=for-the-badge&logo=swagger&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
-
+</p>
 #### 🛠 **Tools & Platforms**
+<p align="center">
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Windows Server 2019](https://img.shields.io/badge/Windows%20Server%202019-%230078D6.svg?style=for-the-badge&logo=windows&logoColor=white)
-
+</p>
 
 ![UI/UX](https://img.shields.io/badge/UI%2FUX-%23008080.svg?style=for-the-badge&logo=figma&logoColor=white)
 
