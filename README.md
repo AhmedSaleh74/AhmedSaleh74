@@ -64,13 +64,16 @@
 
 ---
 
-### 🌍 **Connect With Me**
-📧 **Email:** [AhmedSaleh1112001@gmail.com](mailto:AhmedSaleh1112001@gmail.com)  
-🔗 **Portfolio:** [My Portfolio](https://ahmed-saleh-mobile-dev-isidys3.gamma.site/)  
-🔗 **LinkedIn:** [Ahmed Saleh](https://www.linkedin.com/in/ahmed-saleh-054651219/)  
+### 🌍 **Connect With Me**  
+<p align="center">
+  <a href="mailto:AhmedSaleh1112001@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://ahmed-saleh-mobile-dev-isidys3.gamma.site/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=react&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/ahmed-saleh-054651219/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</p>
 
----
-
-### 🎯 **Let's Collaborate!**
-🚀 Always open to **exciting projects, open-source contributions, and solving challenging problems!**  
-💡 If you have a cool project in mind, let's build something amazing together!  
